@@ -1,2 +1,2 @@
 This is a file.
-This text cannot be edited.
+This is an edited text.
